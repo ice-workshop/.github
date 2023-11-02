@@ -10,8 +10,14 @@ In the last few years, ICE has been a satellite workshop of [DisCoTec](https://w
 
 Assume that the edition is `XXXX`.
 
+#### On github
+
 1. Archive the previous edition (`XXX(X-1)`) (you may have to wait for the special issue to have been published to do that),
 2. [Create a team called `XXXX`](https://github.com/orgs/ice-workshop/new-team),
 3. Add the IceCreamers to this team,
 4. [Create a repository called `iceXXXX`](https://github.com/organizations/ice-workshop/repositories/new),
 5. Give the `XXXX` team admin rights on the `iceXXXX` repository, and read right on the `iceYYYY` repository, for `XXXX > YYYY`
+
+#### On Framalist
+
+Go to https://framalistes.org/sympa/admin/ice and update the list of admins (remove ICECreamers from `XXX(X-1)` and add ICECreamers for `XXXX`)
