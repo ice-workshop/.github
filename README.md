@@ -10,7 +10,7 @@ In the last few years, ICE has been a satellite workshop of [DisCoTec](https://w
 
 Assume that the edition is `XXXX`.
 
-1. Archive the previous edition (`XXX(X-1)`),
+1. Archive the previous edition (`XXX(X-1)`) (you may have to wait for the special issue to have been published to do that),
 2. [Create a team called `XXXX`](https://github.com/orgs/ice-workshop/new-team),
 3. Add the IceCreamers to this team,
 4. [Create a repository called `iceXXXX`](https://github.com/organizations/ice-workshop/repositories/new),
